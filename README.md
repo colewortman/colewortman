@@ -6,4 +6,4 @@ One project I’m especially proud of is Event Planner, a full-stack application
 This project was particulary rewarding because it allowed me to have hands-on experience with modern development workflows and building scalable, production-ready applications.
 You can find the project here: https://github.com/colewortman/event-planner.
 
-I'm currently searching for a role in backend web development where I can grow my skills, ideally writing in JavaScript or Go. If you're hiring, let's chat!
+I'm currently searching for a role in backend software engineering where I can grow my skills, ideally writing in JavaScript or Go. If you're hiring, let's chat!
